@@ -32,7 +32,7 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
           <span className="font-satoshi font-semibold text-base text-gray-700">
             Tag {` `}
             <span className="font-normal">
-              (#motivation, #webdevelopment, #investment)
+              (#motivation, #webdevelopment, #finance)
             </span>
           </span>
 
